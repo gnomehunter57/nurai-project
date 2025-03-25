@@ -1,1 +1,1 @@
-Private repository for Nurai project developers
+Repository for Nurai project developers
